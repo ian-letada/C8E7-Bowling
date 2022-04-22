@@ -1,0 +1,2 @@
+# C8E7-Bowling
+In bowling, a ball is rolled down a lane, also called an alley, at a set of ten pins. A game consists of a  bowler bowling for ten frames, where each frame consists of two chances (throws) to knock over all ten  pins. Bowling centers often use computers to electronically keep scores for bowlers. Use object-oriented  development to create a Bowling application that simulates a simplified game of bowling.
